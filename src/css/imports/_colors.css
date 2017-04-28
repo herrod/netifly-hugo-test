@@ -8,6 +8,10 @@
   color: --var(--highlight);
 }
 
+.purple {
+  color: var(--purple);
+}
+
 .white {
   color: var(--white);
 }
@@ -37,7 +41,7 @@
 }
 
 .bg-primary {
-  background-color: var(--primary);
+  background-color: var(--purple);
 }
 
 .bg-highlight {
